@@ -765,3 +765,5 @@ NoteList菜单switch下添加case：
 
 
 注：有些功能是在虚拟机上跑的，电脑配置低，手机上有些权限用不了，所以图片是虚拟机和真机结合的
+<img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3088355668,4076927822&fm=27&gp=0.jpg" width="100" height="100"/>
+
