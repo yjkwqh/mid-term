@@ -496,7 +496,7 @@ public class OutputText extends Activity {
 运行截图：
 
 <img src="https://img-blog.csdnimg.cn/20190519182919502.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
-<img src="https://img-blog.csdnimg.cn/2019051916024275.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
+<img src="https://img-blog.csdnimg.cn/2019051916024275.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="300"/>
 
 <img src="https://img-blog.csdnimg.cn/20190519160305871.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
 <img src="https://img-blog.csdnimg.cn/20190519160322332.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
@@ -741,11 +741,13 @@ NoteList菜单switch下添加case：
 运行截图：
 
 <img src="https://img-blog.csdnimg.cn/20190519190606619.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
+
 创建时间排序：
 
 <img src="https://img-blog.csdnimg.cn/20190519190659737.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
 
 修改时间排序：
+
 <img src="https://img-blog.csdnimg.cn/20190519190750339.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
 
 颜色排序：
