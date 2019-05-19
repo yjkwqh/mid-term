@@ -500,6 +500,9 @@ public class OutputText extends Activity {
 
 <img src="https://img-blog.csdnimg.cn/20190519160305871.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
 <img src="https://img-blog.csdnimg.cn/20190519160322332.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
+
+文件保存位置：
+
 <img src="https://img-blog.csdnimg.cn/2019051916034137.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="400" height="300"/>
 <img src="https://img-blog.csdnimg.cn/20190519160352821.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="400" height="300"/>
 
@@ -659,7 +662,7 @@ public void dateClick(View view){
 
 提醒：
 
-<img src="https://img-blog.csdnimg.cn/20190519195252314.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="300"/>
+<img src="https://img-blog.csdnimg.cn/20190519195252314.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
 
 取消提醒：
 
