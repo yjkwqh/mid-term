@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="live_folder_name">Notes</string>
+
+    <string name="title_edit_title">Note title:</string>
+    <string name="title_create">New note</string>
+    <string name="title_edit">Edit: %1$s</string>
+    <string name="title_notes_list">Notes</string>
+
+    <string name="menu_add">New note</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_revert">Revert changes</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_paste">Paste</string>
+
+    <string name="button_ok">OK</string>
+    <string name="text_title">Title:</string>
+
+    <string name="resolve_edit">Edit note</string>
+    <string name="resolve_title">Edit title</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_message">Error loading note</string>
+    <string name="nothing_to_save">There is nothing to save</string>
+    <string name="title_notes_search">search</string>
+
+    <string name="menu_output">output file</string>
+    <string name="output_ok">确认导出</string>
+
+    <string name="menu_sort1">创建时间</string>
+    <string name="menu_sort2">修改时间</string>
+    <string name="menu_sort3">颜色</string>
+
+    <string name="font_size">字体大小</string>
+    <string name="font10">10号</string>
+    <string name="font16">16号</string>
+    <string name="font20">20号</string>
+
+    <string name="font_color">字体颜色</string>
+    <string name="red_title">红色</string>
+    <string name="black_title">黑色</string>
+
+    <string name="alarm">alarm</string>
+</resources>
