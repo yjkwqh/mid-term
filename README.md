@@ -657,6 +657,12 @@ public void dateClick(View view){
 <img src="https://img-blog.csdnimg.cn/20190519184813655.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
 <img src="https://img-blog.csdnimg.cn/20190519184849966.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
 
+提醒：
+
+<img src="https://img-blog.csdnimg.cn/20190519195252314.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="300"/>
+
+取消提醒：
+
 <img src="https://img-blog.csdnimg.cn/20190519185249821.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
 <img src="https://img-blog.csdnimg.cn/20190519185432555.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70" width="240" height="400"/>
 
